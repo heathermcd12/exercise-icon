@@ -39,4 +39,11 @@ html {
 .btn i{
     vertical-align: middle;
     padding-right: 5px;
+    height: 180px;
+}
+
+h1 {
+    padding-top: 100px;
+    text-align: center;
+    font-size: 100px;
 }
