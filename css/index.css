@@ -30,19 +30,19 @@ h1 {
 }
 
 .icon {
-  margin: 0;
-  padding: .25em 0 0;
-  width: 100%;
-  visibility: visible;
-  display: inline-block;
-  font-size: 10em;
-  line-height: 0;
-  text-align: center;
-  color: black;
+    margin: 0;
+    padding: .25em 0 0;
+    width: 100%;
+    visibility: visible;
+    display: inline-block;
+    font-size: 10em;
+    line-height: 0;
+    text-align: center;
+    color: black;
 }
 
 .icon:hover {
-    visibility: hidden;
+    color: red;
 }
-    
+
 
