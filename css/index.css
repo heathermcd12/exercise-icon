@@ -19,30 +19,36 @@ html {
 }
 
 body {
+    display:block;
     margin: 0;
     width: 100%;
 }
 
 h1 {
-    padding-top: 50px;
+    padding-top: 10px;
     text-align: center;
     font-size: 100px;
 }
 
 .icon {
-    margin: 0;
-    padding: .25em 0 0;
+    padding-top: 50px;
+    text-align: center;
     width: 100%;
     visibility: visible;
     display: inline-block;
     font-size: 10em;
     line-height: 0;
-    text-align: center;
     color: black;
 }
 
 .icon:hover {
-    color: red;
+    color: grey;
 }
+
+.about {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+    
 
 
