@@ -18,13 +18,18 @@ html {
 	box-sizing: inherit;
 }
 
+body {
+    margin: 0;
+    width: 100%;
+}
+
 .btn {
     background-color: white;
     color: black;
     font-weight: 400;
     text-decoration: none;
     padding: .5em 1em;
-    margin: 1px;
+    margin: 5px;
     border-radius: 5px;
     display: inline-block;
 }
